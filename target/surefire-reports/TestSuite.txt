@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.645 s <<< FAILURE! - in TestSuite
+aTest(mavendemo.day1.firstTest)  Time elapsed: 0.01 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at mavendemo.day1.firstTest.aTest(firstTest.java:10)
+
